@@ -1,3 +1,4 @@
+![ScreenRecording2024-03-27at2 49 08PM-ezgif com-video-to-gif-converter](https://github.com/sseunghoon/42_Philosophers/assets/45088611/a254597c-5d05-4a65-8bee-f2a02219c32e)
 # 요약
 ***유명한 동시성 문제인 식사하는 철학자들 문제를 통해서 멀티스레딩과 뮤텍스를 이해합니다.***
 ![image](https://github.com/sseunghoon/42_Philosophers/assets/45088611/2dcacb73-9f75-44e5-83c8-2d947b5f5c97)
@@ -60,3 +61,6 @@ philosophers, each philosopher has a fork on their left side and a fork on their
 side. If there is only one philosopher, there should be only one fork on the table.
 - ***To prevent philosophers from duplicating forks, you should protect the forks state
 with a mutex for each of them.***
+
+
+
